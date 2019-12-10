@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<img src="pics_fip/pics_fip/logo1.jpg">
+<img src="pics_fip/pics_fip/logo.jpg">
 
 
 <P>I am showing about punjabi cuisines in my website.</P>
